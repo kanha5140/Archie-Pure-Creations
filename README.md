@@ -42,6 +42,15 @@ The tracking system is designed for the modern user on the go.
 
 ---
 
+### How to apply this:
+
+1.  Go to your GitHub repository.
+2.  Click **Add file** \> **Create new file**.
+3.  Name it `README.md`.
+4.  Paste the code above and click **Commit changes**.
+
+Would you like me to create a professional **License** file to go along with this?
+
 ## 📂 Project Structure
 ```text
 ├── assets/             # Branding, Logos, and Premium Imagery
@@ -51,10 +60,11 @@ The tracking system is designed for the modern user on the go.
 ├── products.html       # Dynamic Shop & Filtering
 ├── tracking.html       # Automated Logistics Portal
 └── README.md           # Documentation
-
+```
 <p align="center">
 Developed with ❤️ by <b>Om Prasad Mohanty</b>
 
 
 <i>Founder, Omm Technology & Archie Pure Creations</i>
 </p>
+
