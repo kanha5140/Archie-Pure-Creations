@@ -65,6 +65,6 @@ Would you like me to create a professional **License** file to go along with thi
 Developed with ❤️ by <b>Om Prasad Mohanty</b>
 
 
-<i>Founder, Omm Technology & Archie Pure Creations</i>
+<i>Founder, Omm Technology</i>
 </p>
 
